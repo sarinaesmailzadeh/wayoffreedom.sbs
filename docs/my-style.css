@@ -1,7 +1,9 @@
-.my-text{
+.my_text{
     text-align: right;
     direction: rtl;
     font-family: Vazir;
     color: black;
     word-spacing: normal;
+    letter-spacing: normal;
+    font-weight: 200;
 }
