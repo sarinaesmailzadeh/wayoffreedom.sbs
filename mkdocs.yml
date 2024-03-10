@@ -1,10 +1,10 @@
-site_name: Hiddify
-site_author: Hiddify.com
-site_url: 'https://hiddify.com/'
-repo_url: https://github.com/hiddify/Hiddify-Next
-repo_name: hiddify/Hiddify-Next
-copyright: Copyright &copy; 2024 Hiddify
-site_description: The proxy manager platform.
+site_name: Way Of Freedom
+site_author: wayoffreedom.sbs
+site_url: 'https://wayoffreedom.sbs/'
+repo_url: https://github.com/majidrezarahnavard/way_of_freedom
+repo_name: majidrezarahnavard/way_of_freedom
+copyright: Copyright &copy; 2024 Way of freedom
+site_description: The Document of free Internet.
 remote_branch: docs
 edit_uri: https://github.com/hiddify/hiddify.com/edit/main/docs/
 watch:
@@ -135,23 +135,23 @@ extra:
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
 
-  analytics:
-    provider: google
-    property: G-1B5433L63G
-    feedback:
-      title: Was this page helpful?
-      ratings:
-        - icon: material/emoticon-happy-outline
-          name: This page was helpful
-          data: 1
-          note: >-
-            Thanks for your feedback!
-        - icon: material/emoticon-sad-outline
-          name: This page could be improved
-          data: 0
-          note: >- 
-            Thanks for your feedback! Help us improve this page by
-            using our <a href="https://github.com/hiddify/docs.hiddify.com/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">feedback form</a>.
+  # analytics:
+  #   provider: google
+  #   property: G-1B5433L63G
+  #   feedback:
+  #     title: Was this page helpful?
+  #     ratings:
+  #       - icon: material/emoticon-happy-outline
+  #         name: This page was helpful
+  #         data: 1
+  #         note: >-
+  #           Thanks for your feedback!
+  #       - icon: material/emoticon-sad-outline
+  #         name: This page could be improved
+  #         data: 0
+  #         note: >- 
+  #           Thanks for your feedback! Help us improve this page by
+  #           using our <a href="https://github.com/hiddify/docs.hiddify.com/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">feedback form</a>.
 extra_css:
   - assets/css/site.css
 extra_javascript:
