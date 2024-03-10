@@ -33,7 +33,7 @@
 - حالا کد زیر را کپی کنید
 </div>
 
-{% include 'cloud_init.yml' %}
+{% include '{% include file.ext param='value' param2='value' %}' %}
 
 <div dir="rtl" markdown=1>
 - کد بالا را در محل نشان داده در عکس قرار دهید.

@@ -12,7 +12,7 @@ In the video below, all the steps are described. This video is in Farsi and if y
 # Installation steps
 1. copy the following code:
 
-{% include 'cloud_init.yml' %}
+{% include '{% include file.ext param='value' param2='value' %}' %}
 
 Do not forget to wait at least 10 minutes.
 

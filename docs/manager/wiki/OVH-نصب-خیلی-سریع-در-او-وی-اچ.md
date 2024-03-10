@@ -9,7 +9,7 @@
 
 حالا کد زیر را کپی کنید
 
-{% include 'cloud_init.yml' %}
+{% include '{% include file.ext param='value' param2='value' %}' %}
 
 </div>
 
