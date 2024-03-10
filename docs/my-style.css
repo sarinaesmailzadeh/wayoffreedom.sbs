@@ -7,3 +7,14 @@
     letter-spacing: normal;
     font-weight: 200;
 }
+
+.my_title{
+    text-align: center;
+    font-family: Vazir, 'Courier New', Courier, monospace;
+    direction: ltr;
+    font-size: larger;
+    color: black;
+    word-spacing: normal;
+    letter-spacing: normal;
+    font-weight: 300;
+}
