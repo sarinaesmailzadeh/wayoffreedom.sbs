@@ -1,12 +1,12 @@
 site_name: Way of Freedom
-site_author: Hiddify.com
-site_url: 'https://hiddify.com/'
+site_author: wayoffreedom.sbs
+site_url: 'https://wayoffreedom.sbs/'
 repo_url: https://github.com/hiddify/Hiddify-Next
 repo_name: hiddify/Hiddify-Next
-copyright: Copyright &copy; 2024 Hiddify
+copyright: Copyright &copy; 2024 Way of Freedom
 site_description: The proxy manager platform.
 remote_branch: docs
-edit_uri: https://github.com/hiddify/hiddify.com/edit/main/docs/
+edit_uri: https://github.com/sarinaesmailzadeh/wayoffreedom.sbs/edit/main/docs/
 watch:
   - includes
   - overrides
