@@ -158,13 +158,13 @@ extra_javascript:
   - assets/js/site.js    
 plugins:  
   - rss
-  - tags
+  # - tags
   - git-authors
   
 
   # - privacy
-  - search:
-        indexing: 'full' #sections
+  # - search:
+        # indexing: 'full' #sections
         # prebuild_index: true
   - include-markdown
       
