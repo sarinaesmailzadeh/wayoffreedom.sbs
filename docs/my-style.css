@@ -18,3 +18,7 @@
     letter-spacing: normal;
     font-weight: 300;
 }
+
+img{
+    max-height: 100px !important;
+}
