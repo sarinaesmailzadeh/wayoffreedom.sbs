@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://wayoffreedom.sbs/all_elements/</loc>
+        <lastmod>2024-03-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wayoffreedom.sbs/all_elements/"/>
+        <xhtml:link rel="alternate" hreflang="fa" href="https://wayoffreedom.sbs/fa/all_elements/"/>
+    </url>
+    <url>
+        <loc>https://wayoffreedom.sbs/privacy-policy/</loc>
+        <lastmod>2024-03-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wayoffreedom.sbs/privacy-policy/"/>
+        <xhtml:link rel="alternate" hreflang="fa" href="https://wayoffreedom.sbs/fa/privacy-policy/"/>
+    </url>
+    <url>
+        <loc>https://wayoffreedom.sbs/blog/</loc>
+        <lastmod>2024-03-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wayoffreedom.sbs/blog/"/>
+        <xhtml:link rel="alternate" hreflang="fa" href="https://wayoffreedom.sbs/fa/blog/"/>
+    </url>
+    <url>
+        <loc>https://wayoffreedom.sbs/fa/all_elements/</loc>
+        <lastmod>2024-03-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fa" href="https://wayoffreedom.sbs/fa/all_elements/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wayoffreedom.sbs/all_elements/"/>
+    </url>
+    <url>
+        <loc>https://wayoffreedom.sbs/fa/privacy-policy/</loc>
+        <lastmod>2024-03-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fa" href="https://wayoffreedom.sbs/fa/privacy-policy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wayoffreedom.sbs/privacy-policy/"/>
+    </url>
+    <url>
+        <loc>https://wayoffreedom.sbs/fa/blog/</loc>
+        <lastmod>2024-03-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fa" href="https://wayoffreedom.sbs/fa/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://wayoffreedom.sbs/blog/"/>
+    </url>
+</urlset>
