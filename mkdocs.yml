@@ -6,7 +6,7 @@ repo_name: majidrezarahnavard/way_of_freedom
 copyright: Copyright &copy; 2024 Way of freedom
 site_description: The Document of free Internet.
 remote_branch: docs
-edit_uri: https://github.com/hiddify/hiddify.com/edit/main/docs/
+edit_uri: https://github.com/majidrezarahnavard/way_of_freedom/edit/main/docs/
 watch:
   - includes
   - overrides
